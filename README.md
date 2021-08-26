@@ -1,2 +1,2 @@
-# TheDevilSL.github.io
+# thedevilsl.github.io
 My website cousera
